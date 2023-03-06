@@ -1,0 +1,54 @@
+{
+    "cryptoCurrency":[
+    {
+      "id": 0,
+      "type": "Bitcoin (BTC)",
+      "currentPrice": 31812.80,
+      "totalValue": 60000,
+      "pairs": ["Solana", "Ethereum(ETH)", "Binance USD (BUSD)"],
+      "icon": "assets/bitcoin.svg",
+      "change": 10,
+      "currency": "$"
+    },
+    {
+      "id": 1,
+      "type":"Solana",
+      "currentPrice": 32.83,
+      "totalValue": 60000,
+      "icon": "assets/solana.svg",
+      "pairs": ["Bitcoin (BTC)", "Ethereum(ETH)", "Binance USD (BUSD)"],
+      "change": -12.32,
+      "currency": "$"
+    },
+    {
+      "id": 2,
+      "type": "Ethereum(ETH)",
+      "currentPrice": 1466.45,
+      "totalValue": 60000,
+      "icon": "assets/ethereum.svg",
+      "pairs": ["Solana", "Bitcoin (BTC)", "Binance USD (BUSD)"],
+      "change": -11.93
+    },
+    {
+      "id": 3,
+      "type": "Binance USD (BUSD)",
+      "currentPrice": 1.00,
+      "totalValue": 60000,
+      "icon": "assets/binance.svg",
+      "pairs": ["Solana", "Ethereum(ETH)", "Binance USD (BUSD)"],
+      "change": 0.26,
+      "currency": "$"
+    },
+    {
+      "id": 4,
+      "type": "Shiba Inu (SHIB)",
+      "icon": "assets/shiba.svg",
+      "currentPrice": 0.00000001948,
+      "totalValue": 60000,
+      "pairs": ["Solana", "Ethereum(ETH)", "Binance USD (BUSD)"],
+      "change": 8.1,
+      "currency": "$"
+    }
+  
+  ]
+  }
