@@ -1,4 +1,9 @@
 <img width="959" alt="assets" src="https://user-images.githubusercontent.com/35212192/223042030-dde2bb94-aa80-439e-92a3-424c8663b479.png">
+
+<img width="185" alt="small screen ui" src="https://user-images.githubusercontent.com/35212192/223321469-7d951d76-dcad-4c9a-8879-fc78beddb2ca.png">
+
+<img width="175" alt="small screen ui 2" src="https://user-images.githubusercontent.com/35212192/223321519-d4a83070-50c3-4ca7-9a02-dcbd98783ad2.png">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
