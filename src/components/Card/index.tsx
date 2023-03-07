@@ -64,13 +64,13 @@ const Card: FC<Props> = ({
       </p>
       <p className="text-[#808ddb] text-center font-extrabold my-2">TVL</p>
       <div className="flex justify-center mt-5 bg-[#14172B] py-2 rounded-full my-1">
-        {pairs?.map((currentValue, index) => (
+        {pairs?.map((currentValue: string, index: number) => (
           <img
             key={index}
             className="mx-2 h-5"
             src={
               data.cryptoCurrency.find(
-                (currentItem) => currentItem.type === currentValue
+                (currentItem: Props) => currentItem.type === currentValue
               )?.icon
             }
             alt="pairs"
